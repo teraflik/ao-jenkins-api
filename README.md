@@ -1,6 +1,6 @@
 # Jenkins API
 
-Script to call the Jenkins API on the specified ENDPOINT to list all active jobs, with status of the last succesful build of a specified job.
+Script to call the Jenkins API on the specified ENDPOINT to list all active jobs, with status of the last successful build of a specified job.
 
 The client API library used is [jenkinsapi](https://github.com/pycontribs/jenkinsapi).
 
